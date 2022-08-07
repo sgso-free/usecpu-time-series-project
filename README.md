@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Project - Anomaly detection on CPU usage
